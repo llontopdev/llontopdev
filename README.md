@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello Github! </h3>
 <h2 align="center"> My nick is @llontopdev </h2>
 
-- 🌱 I’m interested in Web Design, I'm currently learning Html, Css... FullStack soon.
+- 🌱 I’m interested in Web Design, I'm currently learning Html, Css, Js... FullStack soon.
 - 📫 Contact me. llontopdev@gmail.com
 
 These are my projects:
