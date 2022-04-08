@@ -7,8 +7,8 @@
 These are my projects:
 
 >💼[My Portfolio](https://llontopdev.github.io/My-Portfolio/)<br>
->📘[My Blog](https://llontopdev.github.io/My-blog/)
-> ✏ [Signature NCR Creator](https://llontopdev.github.io/generar-fima/)
+>📘[My Blog](https://llontopdev.github.io/My-blog/)<br>
+>✏ [Signature NCR Creator](https://llontopdev.github.io/generar-fima/)<br>
 
 
 <hr>
