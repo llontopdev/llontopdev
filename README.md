@@ -27,6 +27,8 @@ Connect with me:
 
 ![Custom badge](https://img.shields.io/endpoint?label=linkedin&logo=Luiggi%20Llontop&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluel184%2F)
 
+[LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)
+
 <!---
 llontopdev/llontopdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
