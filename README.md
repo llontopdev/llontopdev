@@ -21,6 +21,9 @@
 
 <hr>
 Connect with me: 
+
+[https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue]
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)](https://www.linkedin.com/in/luel184)
 
 <!---
