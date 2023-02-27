@@ -25,9 +25,8 @@ Connect with me:
 
 [![LinkedIn](https://img.shields.io/endpoint?label=linkedin&logo=Luiggi%20Llontop-&style=for-the-badge&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luel184)
 
-![Custom badge](https://img.shields.io/endpoint?label=linkedin&logo=Luiggi%20Llontop&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluel184%2F)
 
-[LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)](https://www.linkedin.com/in/luel184)
 
 <!---
 llontopdev/llontopdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
