@@ -21,7 +21,7 @@
 
 <hr>
 Connect with me: 
-[![LinkedIn](https://www.linkedin.com/in/luel184)]()
+[LinkedIn](https://www.linkedin.com/in/luel184)
 
 
 
