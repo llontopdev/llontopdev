@@ -19,9 +19,7 @@
 >✏ [Signature NCR Creator](https://llontopdev.github.io/signature-ncr-creator/)<br>
 
 
-<hr>
-Connect with me: 
-
+## Contacto :
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)](https://www.linkedin.com/in/luel184)
