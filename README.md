@@ -22,7 +22,7 @@
 ## Contacto :
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)](https://www.linkedin.com/in/luel184)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Luiggi%20Llontop-blue)]([https://www.linkedin.com/in/luel184](https://www.linkedin.com/in/luiggi-llontop/))
 
 <!---
 llontopdev/llontopdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
